@@ -1,0 +1,6 @@
+framework module Pods_treeview {
+  umbrella header "Pods-treeview-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - TreeView (1.1.3)
+
+DEPENDENCIES:
+  - TreeView
+
+SPEC REPOS:
+  trunk:
+    - TreeView
+
+SPEC CHECKSUMS:
+  TreeView: fe68b412a78964c58c9fe693b0d18fe659f53ff3
+
+PODFILE CHECKSUM: ac8c58be61732cbe387bbc1ac3e128c24ebc0116
+
+COCOAPODS: 1.9.2
